@@ -1,0 +1,103 @@
+      <section id="leaders">
+        <h2>Leaders</h2>
+
+        <section>
+          <h3>Web Exploitation</h3>
+          <div class="flex">
+            <article>
+              <img src="https://placehold.co/300"/>
+              <footer>
+                Beluga (a.k.a Yudis)
+              </footer>
+            </article>
+            <article>
+              <img src="https://placehold.co/300"/>
+              <footer>
+                Arkoov (a.k.a Jeffrey)
+              </footer>
+            </article>
+          </div>
+        </section>
+
+        <section>
+          <h3>Binary Exploitation</h3>
+          <div class="flex">
+            <article>
+              <img src="https://placehold.co/300"/>
+              <footer>
+                Brandy (a.k.a Nicolas)
+              </footer>
+            </article>
+            <article>
+              <img src="https://placehold.co/300"/>
+              <footer>
+                Vinn (a.k.a Calvin)
+              </footer>
+            </article>
+          </div>
+        </section>
+        
+        <section>
+          <h3>Reverse Engineering</h3>
+          <div class="flex">
+            <article>
+              <img src="https://placehold.co/300"/>
+              <footer>
+                Gengi (a.k.a Kenzie)
+              </footer>
+            </article>
+          </div>
+        </section>
+
+        <section>
+          <h3>Forensic</h3>
+          <div class="flex">
+            <article>
+              <img src="https://placehold.co/300"/>
+              <footer>
+                Cipichop (a.k.a Gracia)
+              </footer>
+            </article>
+          </div>
+        </section>
+
+        <section>
+          <h3>Cryptography</h3>
+          <div class="flex">
+            <article>
+              <img src="https://placehold.co/300"/>
+              <footer>
+                Wrth (a.k.a Bill Elim)
+              </footer>
+            </article>
+          </div>
+        </section>
+
+        <section>
+          <h3>Blockchain</h3>
+          <div class="flex">
+            <article>
+              <img src="https://placehold.co/300"/>
+              <footer>
+                Kiinzu (a.k.a Richard)
+              </footer>
+            </article>
+          </div>
+        </section>
+
+        <h2>Advisory Team</h2>
+        <div class="flex">
+          <article>
+            <img src="https://placehold.co/300"/>
+            <footer>
+              DeepSnow (a.k.a Yohan Muliono)
+            </footer>
+          </article>
+          <article>
+            <img src="https://placehold.co/300"/>
+            <footer>
+              Siahaan (a.k.a Chrisando Ryan)
+            </footer>
+          </article>
+        </div>
+      </section>
